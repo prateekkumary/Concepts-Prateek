@@ -20,10 +20,10 @@ To address this, the company implements a data warehousing solution to aggregate
 
 The primary objective of implementing the data warehouse for the retail company is to:
 
-    - Consolidate data from multiple sources: The data warehouse integrates data from the sales, customer feedback, - - -   - inventory, and supply chain systems to provide a unified view of operations.
-    - Enhance decision-making: By enabling real-time access to data and analytics, the data warehouse helps the company identify sales trends, predict inventory needs, and improve customer service.
-    - Enable advanced analytics: With a centralized repository, the company can leverage advanced analytics, such as    predictive modeling and customer segmentation, to gain deeper insights into market trends and customer behavior.
-    - Optimize performance: The data warehouse is designed for efficient querying and reporting, ensuring faster analysis of large datasets and reducing the time required for business decisions.
+    * Consolidate data from multiple sources
+    * Enhance decision-making
+    * Enable advanced analytics
+    * Optimize performance
 
   
 
