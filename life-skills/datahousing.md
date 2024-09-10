@@ -10,7 +10,7 @@
 
 Imagine a large retail company that operates both online and offline stores. This company generates massive amounts of data from various sources, including sales transactions, customer feedback, supply chain operations, and inventory management systems. Without a proper system in place to consolidate and analyze this data, the company faces difficulties in making timely and informed decisions, such as predicting product demand, optimizing inventory, and improving customer service.
 
-To address this, the company implements a data warehousing solution to aggregate data from its different sources into a single platform. The goal is to provide business analysts, managers, and other stakeholders with fast access to accurate data for real-time decision-making.
+To address this, the company implements a data warehousing solution to aggregate data from its different sources into a single platform. The goal is to provide business analysts, managers, and other stakeholders with fast access to accurate data for real-time decision making.
 
 
 
